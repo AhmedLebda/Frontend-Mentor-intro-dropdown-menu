@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-using-html-css-and-js-COwSW8SWZc)
+- Live Site URL: [live site URL](https://ahmedlebda.github.io/Frontend-Mentor-intro-dropdown-menu/)
 
 ## My process
 
